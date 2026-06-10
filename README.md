@@ -24,7 +24,7 @@ l'avancement des grands chantiers d'infrastructure (routes, ponts, bâtiments).
 |  Ajouter un chantier | Formulaire avec validation complète |
 |  Modifier un chantier | Pré-remplissage automatique du formulaire |
 |  Supprimer un chantier | Confirmation par dialog |
-| ℹ À propos | Infos étudiant + sources des données |
+|  À propos | Infos étudiant + sources des données |
 
 ---
 
