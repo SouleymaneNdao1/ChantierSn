@@ -19,12 +19,12 @@ l'avancement des grands chantiers d'infrastructure (routes, ponts, bâtiments).
 
 | Fonctionnalité | Description |
 |---|---|
-| 📋 Liste des chantiers | Affichage avec filtre avancement > 80% |
-| 🔍 Détail d'un chantier | Barre d'avancement, budget, délai, alerte retard |
-| ➕ Ajouter un chantier | Formulaire avec validation complète |
-| ✏️ Modifier un chantier | Pré-remplissage automatique du formulaire |
-| 🗑️ Supprimer un chantier | Confirmation par dialog |
-| ℹ️ À propos | Infos étudiant + sources des données |
+|  Liste des chantiers | Affichage avec filtre avancement > 80% |
+|  Détail d'un chantier | Barre d'avancement, budget, délai, alerte retard |
+|  Ajouter un chantier | Formulaire avec validation complète |
+|  Modifier un chantier | Pré-remplissage automatique du formulaire |
+|  Supprimer un chantier | Confirmation par dialog |
+| ℹ À propos | Infos étudiant + sources des données |
 
 ---
 

@@ -44,3 +44,5 @@ flutter:
   # uses-material-design permet d'utiliser les icônes Material Icons
   # (Icons.add, Icons.filter_list, etc.) sans les télécharger manuellement
   uses-material-design: true
+  assets:
+    - assets/images/infrastructure.jpg
