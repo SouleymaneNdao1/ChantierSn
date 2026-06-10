@@ -1,0 +1,46 @@
+# ─────────────────────────────────────────────────────────────────────────────
+# FICHIER   : pubspec.yaml
+# PROJET    : ChantierSN — Suivi de chantiers d'infrastructure au Sénégal
+# AUTEUR    : Pape Souleymane Ndao — ESMT Licence 3 DAR26
+#
+# pubspec.yaml est le fichier de configuration du projet Flutter.
+# Il déclare le nom, la description, la version, les dépendances et les assets.
+# Aucun package externe : uniquement le SDK Flutter (flutter/material.dart)
+# ─────────────────────────────────────────────────────────────────────────────
+
+# Nom du projet : doit être en snake_case, sans espaces ni majuscules
+name: chantiersn
+
+# Description affichée sur pub.dev et dans les stores
+description: >
+  Application mobile de suivi de chantiers d'infrastructure au Sénégal.
+  ODD 9 — Industrie, innovation et infrastructure.
+  Auteur : Pape Souleymane Ndao — ESMT Licence 3 DAR26.
+
+# Numéro de version : format "version+buildNumber"
+# La version est affichée dans les stores, le build number est interne
+version: 1.0.0+1
+
+# Version minimale du SDK Dart requise pour null safety complète
+# null safety est disponible à partir de Dart 2.12
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+# Dépendances de production : uniquement flutter (material.dart)
+# Aucun package externe tiers conformément aux contraintes du projet
+dependencies:
+  flutter:
+    sdk: flutter
+
+# Dépendances de développement : outils de test uniquement
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  # flutter_lints : règles de style recommandées par l'équipe Flutter
+  flutter_lints: ^3.0.0
+
+# Configuration Flutter : assets, fonts, etc.
+flutter:
+  # uses-material-design permet d'utiliser les icônes Material Icons
+  # (Icons.add, Icons.filter_list, etc.) sans les télécharger manuellement
+  uses-material-design: true

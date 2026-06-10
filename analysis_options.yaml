@@ -1,0 +1,4 @@
+# analysis_options.yaml
+# Configure les règles d'analyse statique du code Dart
+# flutter_lints applique les bonnes pratiques recommandées par l'équipe Flutter
+include: package:flutter_lints/flutter.yaml
