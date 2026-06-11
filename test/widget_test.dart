@@ -3,7 +3,9 @@
 // Couvre le modèle Chantier et les helpers formatBudget / formatDate
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:chantiersn/main.dart';
+import 'package:chantiersn/models/chantier.dart';
+import 'package:chantiersn/utils/constants.dart';
+import 'package:chantiersn/widgets/chantier_card.dart';
 
 void main() {
   // ── Tests unitaires : classe Chantier ──────────────────────────────────────
